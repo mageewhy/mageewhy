@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mageewhy
 - 👀 I’m interested in game development and application development.
-- 🌱 I’m currently learning html/css
+- 🌱 I'm currently learning Flutter and C#
 
 <!---
 mageewhy/mageewhy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
