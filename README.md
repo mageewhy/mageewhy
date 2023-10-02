@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mageewhy
 - 👀 I’m interested in game development, application development, and web development.
-- 🧠 I have a knowledge on HTML5, CSS, Laravel, PHP, MySQL, Java.
+- 🧠 I have knowledges on HTML5, CSS, Laravel, PHP, MySQL, Java.
 - 🌱 I'm currently learning Flutter, C#, JavaScript.
 
 <!---
